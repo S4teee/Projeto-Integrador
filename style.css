@@ -16,6 +16,7 @@ body,html{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     text-align: center;
     justify-content: center;
     animation: change 20s infinite ease-in-out;
